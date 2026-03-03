@@ -59,6 +59,9 @@ Skills Demonstrated:
 - Log Correlation
 
 - Security Monitoring
-  
-![Data Ingestion](screenshots/01_data_ingestion.png)
+
+  ![Data Ingestion](./screenshots/01_data_ingestion.png)
+
+
+
 
